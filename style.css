@@ -132,7 +132,7 @@ button:nth-child(2):hover{
     background: white;
     width:18rem;
     border: .3rem solid  white;
-    background-image: url("image1/prajnapic.png");
+    background-image: url("prajnapic.png");
 
     background-size: 100%;
     background-repeat: no-repeat;
